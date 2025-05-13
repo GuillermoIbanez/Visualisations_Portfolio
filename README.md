@@ -11,7 +11,6 @@
   <li>This Repository is set up to display some of my Visualisations capabilities using Python.</li>
 </ul>
   </p>
-<div align="center">
 <div>
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Presentation Icon" width="32" height="32" style="vertical-align: -0.25em;"> Visualisations Presentation Pich Book</h2>
   <ul>
