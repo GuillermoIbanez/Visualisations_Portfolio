@@ -17,6 +17,4 @@
     <li><a href="https://guillermoibanez.github.io/Visualisations_Portfolio/Visualisations_Presentation_Pitch_Book.pdf">Click here to check out the Visualisations Pith Book Slides.</a> </li>
   </ul>
 </div>
-  <ul>
-    <li><a href="https://guillermoibanez.github.io/Visualisations_Portfolio/Pitch_Book.pdf">Click here to check out the Visualisations Pith Book Slides.</a> </li>
-  </ul>
+
